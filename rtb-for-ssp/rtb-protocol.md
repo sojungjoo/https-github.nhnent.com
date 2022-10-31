@@ -6,9 +6,9 @@ AX RTB API는 OpenRTB API 프로토콜 전체 범위를 지원하지는 않으�
 
 &#x20;지원 프로토콜의 범위는 시장의 요구 상황에 따라 변경될 수 있습니다.
 
-<img src="../.gitbook/assets/file.drawing (1).svg" alt="" class="gitbook-drawing">
+<img src="../.gitbook/assets/file.drawing.svg" alt="" class="gitbook-drawing">
 
-AB는 온라인 마케팅 표준화 등을 진행하는 협회로 RTB 표준화를 위한 가이드 문서를 제공하고 있습니다. \
+IAB는 온라인 마케팅 표준화 등을 진행하는 협회로 RTB 표준화를 위한 가이드 문서를 제공하고 있습니다. \
 아래 URL에서 OpenRTB API 문서를 다운받으실 수 있습니다.
 
 * **IAB OpenRTB API 2.5 스펙 문서**\

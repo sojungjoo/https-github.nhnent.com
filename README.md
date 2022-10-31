@@ -2,7 +2,7 @@
 
 ACE eXchange AD exchange 플랫폼과 RTB방식으로 연동 시 이해를 돕고자 작성한 문서입니다.
 
-이 문서에 대해 질문이 있는 경우 ax@nhnace.com으로 문의 주세요.
+이 문서에 대해 질문이 있는 경우 [<mark style="color:blue;">**ax@nhnace.com**</mark>](mailto:ax@nhnace.com)으로 문의 주세요.
 
 {% content-ref url="rtb-for-ssp/" %}
 [rtb-for-ssp](rtb-for-ssp/)
